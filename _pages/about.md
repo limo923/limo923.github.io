@@ -27,7 +27,7 @@ Publications
 
 2024
 ------
-Decentralized Funding of Public Goods in Blockchain System: Leveraging Expert Advice.<br>
+<strong>Decentralized Funding of Public Goods in Blockchain System: Leveraging Expert Advice.</strong><br>
 Jichen Li, Yukun Cheng, Wenhan Huang, Mengqian Zhang, Jiarui Fan, Xiaotie Deng, Jan Xie, Jie Zhang<br>
 IEEE Trans. Cloud Comput. 12(2): 725-736 (2024)
 
