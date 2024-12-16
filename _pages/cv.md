@@ -1,12 +1,24 @@
 ---
-layout: archive
-title: "CV"
+layout: page
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+title: CV
+description: 
+nav: true
+nav_order: 4
+# cv_pdf: eng_cv2.pdf
+# redirect_to: /assets/pdf/YurongChen_CV.pdf
 ---
 
-<p>
-<a href="https://github.com/limo923/limo923.github.io/raw/master/files/Jichen_Li_CV.pdf" download="Jichen_Li_CV.pdf" target="_blank">Jichen Li</a>
-</p>
+- [Download CV](/files/Jichen_Li_CV.pdf)
+
+
+<br>
+
+<!-- {% include embedpdf.html source="https://drive.google.com/file/d/1adiSFK4NkFyDmMPDF3REhVIkQP5Wt_Gy/preview" width=100 height=800 %} -->
+
+<object data="{{ site.url }}{{ site.baseurl }}/files/Jichen_Li_CV.pdf" width="100%" 
+height="600" type="application/pdf"></object>
+
+
+
+<!-- <object data="assets/pdf/sdaza_resume.pdf" width="100" height="800" type='application/pdf'></object> -->
