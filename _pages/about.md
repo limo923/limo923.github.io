@@ -28,18 +28,23 @@ Publications
 Working Papers
 ------
 <strong>[Sealed-bid Auctions on Blockchain with Timed Commitment Outsourcing]( https://arxiv.org/abs/2410.10607)</strong><br>
+<strong>Jichen Li<code>*</code></strong>, Yuanchen Tang<strong><code>*</code></strong>, Jing Chen, Xiaotie Deng <br>
 To be submitted
 
 <strong>Multi-Block Withholding Attacks on Ethereum 2.0: An MDP Approach with Reinforcement Learning</strong><br>
+Wanying Zeng, Binfeng Song, Bo Zhou, <strong>Jichen Li</strong>, Lijia Xie, Xiaotie Deng <br>
 In submission
 
 <strong>Composition of Authenticated Byzantine Agreement with Man-in-middle Attack</strong><br>
+<strong>Jichen Li</strong>, Xuanzhi Xia, Jing Chen, Xiaotie Deng<br>
 To be submitted
 
 <strong>Stop Bidding! Disincentivizing Priority Gas Price Auction</strong><br>
+Hongyin Chen, <strong>Jichen Li</strong>, Yubin Ke, Ittay Eyal<br>
 On working
 
 <strong>Networked Public Goods Games with Prosocialism</strong><br>
+<strong>Jichen Li</strong>, Yukun Cheng, Xiaotie Deng<br>
 To be submitted
 
 
