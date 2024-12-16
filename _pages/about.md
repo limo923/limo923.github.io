@@ -69,3 +69,15 @@ WINE 2022: 21-37
 Mengqian Zhang, <strong>Jichen Li</strong>, Zhaohua Chen, Hongyin Chen, Xiaotie Deng<br>
 IPDPS 2020: 358-367
 
+Professional Service
+======
+
+Conference Review
+------
+WWW 2022, ICDCS 2023, AFT 2024, WINE 2024, FOCS 2024
+
+Conference Organization
+------
+Chair of the 2023-2024 CSIAM Student Forum<br>
+Host of the Blockchain Track at IJTCS 2024<br>
+Question Setter of CACC 2024 Algorithm Ability Competition
