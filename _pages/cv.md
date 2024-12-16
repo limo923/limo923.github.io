@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: archive
+title: "CV"
 permalink: /cv/
-title: CV
-description: 
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
 - [Download CV](/files/Jichen_Li_CV.pdf)
