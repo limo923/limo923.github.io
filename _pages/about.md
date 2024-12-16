@@ -23,7 +23,7 @@ limonion923 [at] gmail.com
 
 Publications
 ======
-<code>*<\code> indicates equal contribution.
+<code>*</code> indicates equal contribution.
 
 2024
 ------
