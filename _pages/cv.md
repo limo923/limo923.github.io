@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 <p>
-<a href="https://github.com/limo923/limo923.github.io/blob/master/files/Jichen_Li_CV.pdf">Jichen Li</a> 
+<a href="https://github.com/limo923/limo923.github.io/blob/master/files/Jichen_Li_CV.pdf", target="_blank">Jichen Li</a> 
 </p>
