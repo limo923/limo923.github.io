@@ -5,8 +5,6 @@ title: CV
 description: 
 nav: true
 nav_order: 4
-# cv_pdf: eng_cv2.pdf
-# redirect_to: /assets/pdf/YurongChen_CV.pdf
 ---
 
 - [Download CV](/files/Jichen_Li_CV.pdf)
