@@ -92,10 +92,10 @@ Professional Service
 
 Conference Review
 ------
-WWW 2022, ICDCS 2023, AFT 2024, WINE 2024, FOCS 2024
+[ICDCS 2023](https://icdcs2023.icdcs.org/), [AFT 2024](https://aftconf.github.io/aft24/index.html), [WINE 2024](https://wine2024.org/), [FOCS 2024](https://focs.computer.org/2024/)
 
 Conference Organization
 ------
-Chair of the 2023-2024 CSIAM Student Forum<br>
-Host of the Blockchain Track at IJTCS 2024<br>
-Question Setter of CACC 2024 Algorithm Ability Competition
+Chair of the 2023-2024 [CSIAM](https://m.csiam.org.cn/index.html) Blockchain Technology and Application Forum Student Track<br>
+Host of the CSIAM Track at [IJTCS 2024](https://ijtcs2024.comp.polyu.edu.hk/) <br>
+Question Setter of [CACC](https://www.ccf.org.cn/Media_list/cacc/) 2024 Algorithm Ability Competition
