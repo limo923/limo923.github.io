@@ -23,7 +23,7 @@ limonion923 [at] gmail.com
 
 Publications
 ======
-/* indicates equal contribution.
+<strong><code>*</code></strong> indicates equal contribution.
 
 2024
 ------
@@ -42,7 +42,7 @@ ESORICS 2023
 AAMAS 2023: 609-624
 
 <strong>[MEV Makes Everyone Happy under Greedy Sequencing Rule](https://arxiv.org/abs/2309.12640)</strong><br>
-Yuhao Li<code>*</code>, Mengqian Zhang<code>*</code>, <strong>Jichen Li<code>*</code></strong>, Elynn Chen, Xi Chen, Xiaotie Deng<br>
+Yuhao Li<strong><code>*</code></strong>, Mengqian Zhang<strong><code>*</code></strong>, <strong>Jichen Li<code>*</code></strong>, Elynn Chen, Xi Chen, Xiaotie Deng<br>
 DeFi@CCS 2023: 9-15
 
 <strong>[A Provable Softmax Reputation-Based Protocol for Permissioned Blockchains](https://ieeexplore.ieee.org/document/9626619)</strong> <br>
@@ -56,16 +56,16 @@ IEEE Trans. Cloud Comput. 11(3): 2562-2574 (2023)
 2022
 ------
 <strong>[Funding Public Goods with Expert Advice in Blockchain System](https://ieeexplore.ieee.org/document/9912199)</strong><br>
-<strong>Jichen Li<code>, Yukun Cheng, Wenhan Huang, Mengqian Zhang, Jiarui Fan, Xiaotie Deng, Jan Xie<br>
+<strong>Jichen Li</strong>, Yukun Cheng, Wenhan Huang, Mengqian Zhang, Jiarui Fan, Xiaotie Deng, Jan Xie<br>
 ICDCS 2022: 180-190
 
 <strong>[Insightful Mining Equilibria](https://arxiv.org/abs/2202.08466)</strong><br>
-Mengqian Zhang, Yuhao Li, <strong>Jichen Li<code>, Chaozhe Kong, Xiaotie Deng<br>
+Mengqian Zhang, Yuhao Li, <strong>Jichen Li</strong>, Chaozhe Kong, Xiaotie Deng<br>
 WINE 2022: 21-37
 
 2020
 ------
 <strong>[CycLedger: A Scalable and Secure Parallel Protocol for Distributed Ledger via Sharding](https://arxiv.org/pdf/2001.06778)</strong><br>
-Mengqian Zhang, <strong>Jichen Li<code>, Zhaohua Chen, Hongyin Chen, Xiaotie Deng<br>
+Mengqian Zhang, <strong>Jichen Li</strong>, Zhaohua Chen, Hongyin Chen, Xiaotie Deng<br>
 IPDPS 2020: 358-367
 
