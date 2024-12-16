@@ -25,6 +25,24 @@ Publications
 ======
 <strong><code>*</code></strong> indicates equal contribution.
 
+Working Papers
+------
+<strong>[Sealed-bid Auctions on Blockchain with Timed Commitment Outsourcing]( https://arxiv.org/abs/2410.10607)</strong><br>
+To be submitted
+
+<strong>Multi-Block Withholding Attacks on Ethereum 2.0: An MDP Approach with Reinforcement Learning</strong><br>
+In submission
+
+<strong>Composition of Authenticated Byzantine Agreement with Man-in-middle Attack</strong><br>
+To be submitted
+
+<strong>Stop Bidding! Disincentivizing Priority Gas Price Auction</strong><br>
+On working
+
+<strong>Networked Public Goods Games with Prosocialism</strong><br>
+To be submitted
+
+
 2024
 ------
 <strong>[Decentralized Funding of Public Goods in Blockchain System: Leveraging Expert Advice](https://ieeexplore.ieee.org/document/10510545)</strong> <br>
