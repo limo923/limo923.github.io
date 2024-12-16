@@ -28,8 +28,30 @@ Publications
 2024
 ------
 <strong>[Decentralized Funding of Public Goods in Blockchain System: Leveraging Expert Advice](https://ieeexplore.ieee.org/document/10510545)</strong> <br>
-Jichen Li, Yukun Cheng, Wenhan Huang, Mengqian Zhang, Jiarui Fan, Xiaotie Deng, Jan Xie, Jie Zhang<br>
+<strong>Jichen Li</strong>, Yukun Cheng, Wenhan Huang, Mengqian Zhang, Jiarui Fan, Xiaotie Deng, Jan Xie, Jie Zhang<br>
 IEEE Trans. Cloud Comput. 12(2): 725-736 (2024)
+
+2023
+------
+<strong>[n-MVTL Attack: Optimal Transaction Reordering Attack on DeFi](https://www4.comp.polyu.edu.hk/~csbxiao/paper/2023/ESORICS_2023_paper_8668.pdf)</strong>
+Jianhuan Wang, Jichen Li, Zecheng Li, Xiaotie Deng,Bin Xiao;
+ESORICS 2023
+
+<strong>[A Provable Softmax Reputation-Based Protocol for Permissioned Blockchains](https://ieeexplore.ieee.org/document/9626619)</strong> 
+Hongyin Chen, Zhaohua Chen, Yukun Cheng, Xiaotie Deng, Wenhan Huang, Jichen Li, Hongyi Ling, Mengqian Zhang
+IEEE Trans. Cloud Comput. 11(1): 1065-1077 (2023)
+
+<strong>[An Efficient and Robust Committee Structure for Sharding Blockchain](https://arxiv.org/abs/2112.15322)</strong>
+Mengqian Zhang, Jichen Li, Zhaohua Chen, Hongyin Chen, Xiaotie Deng:
+IEEE Trans. Cloud Comput. 11(3): 2562-2574 (2023)
+
+<strong>[Altruism, Collectivism and Egalitarianism: On a Variety of Prosocial Behaviors in Binary Networked Public Goods Games](https://dl.acm.org/doi/abs/10.5555/3545946.3598691)</strong>
+Jichen Li, Xiaotie Deng, Yukun Cheng, Yuqi Pan, Xuanzhi Xia, Zongjun Yang, Jan Xie:
+AAMAS 2023: 609-624
+
+<strong>[MEV Makes Everyone Happy under Greedy Sequencing Rule](https://arxiv.org/abs/2309.12640)</strong>
+Yuhao Li, Mengqian Zhang, Jichen Li, Elynn Chen, Xi Chen, Xiaotie Deng:
+DeFi@CCS 2023: 9-15
 
 
 Getting started
