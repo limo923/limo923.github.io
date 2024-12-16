@@ -23,11 +23,11 @@ limonion923 [at] gmail.com
 
 Publications
 ======
-* indicates equal contribution.
+<code>*<\code> indicates equal contribution.
 
 2024
 ------
-<strong>Decentralized Funding of Public Goods in Blockchain System: Leveraging Expert Advice.</strong><br>
+<strong>[Decentralized Funding of Public Goods in Blockchain System: Leveraging Expert Advice](https://ieeexplore.ieee.org/document/10510545)</strong> <br>
 Jichen Li, Yukun Cheng, Wenhan Huang, Mengqian Zhang, Jiarui Fan, Xiaotie Deng, Jan Xie, Jie Zhang<br>
 IEEE Trans. Cloud Comput. 12(2): 725-736 (2024)
 
