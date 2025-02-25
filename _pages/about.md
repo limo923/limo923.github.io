@@ -33,6 +33,10 @@ Working Papers
 <strong>Jichen Li<code>*</code></strong>, Yuanchen Tang<strong><code>*</code></strong>, Jing Chen, Xiaotie Deng <br>
 To be submitted
 
+<strong>Survey on Strategic Mining in Blockchain: A Reinforcement Learning Approach</strong><br>
+<strong>Jichen Li<code>*</code></strong>, Lijia Xie<strong><code>*</code></strong>, Hanting Huang, Bo ZHou, Binfeng Song, Wanying Zeng, Xiaotie Deng, Xiao Zhang <br>
+In submission
+
 <strong>Multi-Block Withholding Attacks on Ethereum 2.0: An MDP Approach with Reinforcement Learning</strong><br>
 Wanying Zeng, Binfeng Song, Bo Zhou, <strong>Jichen Li</strong>, Lijia Xie, Xiaotie Deng <br>
 In submission
@@ -40,10 +44,6 @@ In submission
 <strong>Composition of Authenticated Byzantine Agreement with Man-in-middle Attack</strong><br>
 <strong>Jichen Li</strong>, Xuanzhi Xia, Jing Chen, Xiaotie Deng<br>
 To be submitted
-
-<strong>Stop Bidding! Disincentivizing Priority Gas Price Auction</strong><br>
-Hongyin Chen, <strong>Jichen Li</strong>, Yubin Ke, Ittay Eyal<br>
-On working
 
 <strong>Networked Public Goods Games with Prosocialism</strong><br>
 <strong>Jichen Li</strong>, Yukun Cheng, Xiaotie Deng<br>
