@@ -29,11 +29,11 @@ Publications
 
 Working Papers
 ------
-<strong>[Sealed-bid Auctions on Blockchain with Timed Commitment Outsourcing]( https://arxiv.org/abs/2410.10607)</strong><br>
+<strong>[Sealed-bid Auctions on Blockchain with Timed Commitment Outsourcing](https://arxiv.org/abs/2410.10607)</strong><br>
 <strong>Jichen Li<code>*</code></strong>, Yuanchen Tang<strong><code>*</code></strong>, Jing Chen, Xiaotie Deng <br>
 To be submitted
 
-<strong>Survey on Strategic Mining in Blockchain: A Reinforcement Learning Approach</strong><br>
+<strong>[Survey on Strategic Mining in Blockchain: A Reinforcement Learning Approach](https://arxiv.org/abs/2502.17307)</strong><br>
 <strong>Jichen Li<code>*</code></strong>, Lijia Xie<strong><code>*</code></strong>, Hanting Huang, Bo ZHou, Binfeng Song, Wanying Zeng, Xiaotie Deng, Xiao Zhang <br>
 In submission
 
